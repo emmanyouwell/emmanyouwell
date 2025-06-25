@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanyouwell&show_icons=true&locale=en&layout=compact" alt="emmanyouwell" /></p>
 
-<p>&nbsp;<img align="center" src="https://my-readme-stats-cyteaei68-emmanuel-mingalas-projects.vercel.app/api?username=emmanyouwell&include_all_commits=true&show_icons=true&locale=en" alt="emmanyouwell" /></p>
+<p>&nbsp;<img align="center" src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&include_all_commits=true&show_icons=true&locale=en" alt="emmanyouwell" /></p>
