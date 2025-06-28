@@ -49,10 +49,10 @@
 
  <p align="left">
   <span style="display: inline-block;">
-    <img height=200 min-width=300 src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&include_all_commits=true&count_private=true&show_icons=true&theme=onedark&title_color=42ff71&text_color=42ff71&locale=en" alt="GitHub Stats" />
+    <img height=200 src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&include_all_commits=true&count_private=true&show_icons=true&theme=onedark&title_color=42ff71&text_color=42ff71&locale=en" alt="GitHub Stats" />
   </span>
   <span style="display: inline-block;">
-    <img height=200 min-width=360 src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&include_all_commits=true&count_private=true&show_icons=true&theme=onedark&title_color=42ff71&text_color=42ff71&locale=en&layout=compact" alt="Top Languages" />
+    <img height=200 src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&include_all_commits=true&count_private=true&show_icons=true&theme=onedark&title_color=42ff71&text_color=42ff71&locale=en&layout=compact" alt="Top Languages" />
   </span>
 </p>
 
