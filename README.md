@@ -48,11 +48,11 @@
   <br/>
 
   <div align="center">
-    <img height="200" src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en" alt="GitHub Stats" />
+    <img src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en" alt="GitHub Stats" />
     &nbsp;&nbsp;
-    <img height="200" src="https://streak-stats.demolab.com?user=emmanyouwell&theme=vue-dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=emmanyouwell&theme=vue-dark" alt="GitHub Streak" />
     &nbsp;&nbsp;
-    <img height="200" src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en&layout=compact" alt="Top Languages" />
+    <img src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en&layout=compact" alt="Top Languages" />
   </div>
 
 </details>
