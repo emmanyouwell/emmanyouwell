@@ -45,15 +45,15 @@
 
 <details>
   <summary><b>📊 View My GitHub Stats</b></summary>
-  <br />
+  <br/>
 
- <p align="left">
-  <span>
-    <img height=200 align="center" src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&include_all_commits=true&count_private=true&show_icons=true&theme=onedark&title_color=42ff71&text_color=42ff71&locale=en" alt="GitHub Stats" />
-  </span>
-  <span>
-    <img height=200 align="center" src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&include_all_commits=true&count_private=true&show_icons=true&theme=onedark&title_color=42ff71&text_color=42ff71&locale=en&layout=compact" alt="Top Languages" />
-  </span>
-</p>
+  <div align="center">
+    <img height="200" src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en" alt="GitHub Stats" />
+    &nbsp;&nbsp;
+    <img height="200" src="https://streak-stats.demolab.com?user=emmanyouwell&theme=vue-dark" alt="GitHub Streak" />
+    &nbsp;&nbsp;
+    <img height="200" src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en&layout=compact" alt="Top Languages" />
+  </div>
 
 </details>
+
