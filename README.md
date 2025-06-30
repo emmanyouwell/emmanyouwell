@@ -43,16 +43,16 @@
 <p align="center"><a href="https://www.buymeacoffee.com/emmanyouwell25"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://coff.ee/emmanyouwell25" /></a></p><br><br>
 
 
-<details>
+<details open>
   <summary><b>📊 View My GitHub Stats</b></summary>
   <br/>
 
   <div align="center">
-    <img src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en" alt="GitHub Stats" />
+    <img height=180 src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en" alt="GitHub Stats" />
     &nbsp;&nbsp;
-    <img src="https://streak-stats.demolab.com?user=emmanyouwell&theme=vue-dark" alt="GitHub Streak" />
+    <img height=180 src="https://streak-stats.demolab.com?user=emmanyouwell&theme=vue-dark" alt="GitHub Streak" />
     &nbsp;&nbsp;
-    <img src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en&layout=compact" alt="Top Languages" />
+    <img height=180 src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en&layout=compact" alt="Top Languages" />
   </div>
 
 </details>
