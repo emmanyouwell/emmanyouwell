@@ -58,7 +58,7 @@
   </div>
   &nbsp;&nbsp;
   <div align="left">
-    <img height=180 src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en" alt="GitHub Stats" />
+    <img height=180 src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show=prs_merged&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en" alt="GitHub Stats" />
     &nbsp;&nbsp;
     <img height=180 src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en&layout=compact" alt="Top Languages" />
   </div>
