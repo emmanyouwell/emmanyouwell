@@ -13,7 +13,7 @@
 
 <h1>Facts about me 🤔</h1>
 
-- 🔭 I’m currently working on some side projects [such as...](https://github.com/emmanyouwell/Pokedex-Technical-Assessment)
+- 🔭 I’m currently working on my **profile** and **code quality**
 
 - 🌱 I’m currently learning **everything! 🧠**
 
