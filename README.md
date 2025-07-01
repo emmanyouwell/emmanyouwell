@@ -1,4 +1,4 @@
-# Hi 👋, I'm Emmanuel L. Mingala  **[![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23f4d35e.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://www.buymeacoffee.com/emmanyouwell25)**
+# Hi 👋, I'm Emmanuel L. Mingala **[![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23f4d35e.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://www.buymeacoffee.com/emmanyouwell25)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanyouwell&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="emmanyouwell" /> </p>
 
@@ -13,7 +13,6 @@
 
 <h1>Facts about me 🤔</h1>
 
-
 - 🔭 I’m currently working on some side projects [such as...](https://github.com/emmanyouwell/Pokedex-Technical-Assessment)
 
 - 🌱 I’m currently learning **everything! 🧠**
@@ -24,16 +23,18 @@
 
 - ⚡ Fun fact **I love sleeping 💤**
 
-
-
 # 🛠️ Languages and Tools:
 
 [![Languages & Tools](https://skillicons.dev/icons?i=java,php,c,cpp,js,html,css,react,redux,express,fastapi,laravel,bootstrap,tailwind,opencv,sklearn,dotnet,sequelize,vite,git,github,npm,postman,docker,firebase,netlify,vercel,notion,figma,replit,arduino,raspberrypi,androidstudio,unity,wordpress,mysql,mongodb,linux,nginx,docker,linkedin,discord,devto&theme=light)](https://skillicons.dev)
 
-
 <h1>📬 Connect with me:</h1>
 <a href="https://fb.com/emmanueellll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emmanueellll" height="50" width="60" /></a>
 <a href="https://www.youtube.com/c/emmanuel mingala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emmanuel mingala" height="50" width="60" /></a>
+
+
+# 🎧 Spotify Playing
+
+[![Spotify](https://emmanyouwell.pythonanywhere.com/?spin=true&scan=true&eq_color=rainbow&theme=dark)](https://github.com/tthn0/Spotify-Readme.git)
 
 <br></br>
 
@@ -55,4 +56,3 @@
     <img height=180 src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en&layout=compact" alt="Top Languages" />
   </div>
 </details>
-
