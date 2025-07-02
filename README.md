@@ -1,5 +1,21 @@
 # Hi 👋, I'm Emmanuel L. Mingala **[![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23f4d35e.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://www.buymeacoffee.com/emmanyouwell25)**
 
+<details open>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br/>
+
+  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emmanyouwell&theme=blueberry)
+  
+  ![Github Streak](https://streak-stats.demolab.com?user=emmanyouwell&theme=blueberry&hide_border=true)
+  
+  
+  <div align="left">
+    <img height=180 src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show=prs_merged&show_icons=true&theme=blueberry&hide_border=true&locale=en" alt="GitHub Stats" />
+    &nbsp;&nbsp;
+    <img height=180 src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&show_icons=true&theme=blueberry&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
+  </div>
+</details>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanyouwell&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="emmanyouwell" /> </p>
 
 <div style="max-width: 600px; margin: auto;">
@@ -49,19 +65,4 @@
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanyouwell&theme=gitdimmed" alt="emmanyouwell" /></a> </p>
 </details>
-<details>
-  <summary><b>📊 GitHub Stats</b></summary>
-  <br/>
 
-  <div align="left">
-    <img height=180 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emmanyouwell&theme=blueberry" alt="Profile Details Card"/>
-  </div>
-  <div align="left">
-    <img height=180 src="https://streak-stats.demolab.com?user=emmanyouwell&theme=blueberry&hide_border=true" alt="GitHub Streak" />
-  </div>
-  <div align="left">
-    <img height=180 src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show=prs_merged&show_icons=true&theme=blueberry&hide_border=true&locale=en" alt="GitHub Stats" />
-    &nbsp;&nbsp;
-    <img height=180 src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&show_icons=true&theme=blueberry&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
-  </div>
-</details>
