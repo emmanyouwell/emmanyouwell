@@ -52,14 +52,16 @@
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
   <br/>
-  
+
   <div align="left">
-    <img height=180 src="https://streak-stats.demolab.com?user=emmanyouwell&theme=vue-dark" alt="GitHub Streak" />
+    <img height=180 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emmanyouwell&theme=blueberry" alt="Profile Details Card"/>
   </div>
-  &nbsp;&nbsp;
   <div align="left">
-    <img height=180 src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show=prs_merged&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en" alt="GitHub Stats" />
+    <img height=180 src="https://streak-stats.demolab.com?user=emmanyouwell&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+  </div>
+  <div align="left">
+    <img height=180 src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show=prs_merged&show_icons=true&theme=blueberry&hide_border=true&locale=en" alt="GitHub Stats" />
     &nbsp;&nbsp;
-    <img height=180 src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&show_icons=true&theme=onedark&title_color=41b883&text_color=ffffff&bg_color=273849&locale=en&layout=compact" alt="Top Languages" />
+    <img height=180 src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&show_icons=true&theme=blueberry&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
   </div>
 </details>
