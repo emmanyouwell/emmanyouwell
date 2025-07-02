@@ -4,16 +4,19 @@
   <summary><b>📊 GitHub Stats</b></summary>
   <br/>
 
-  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emmanyouwell&theme=blueberry)
-  
-  ![Github Streak](https://streak-stats.demolab.com?user=emmanyouwell&theme=blueberry&hide_border=true)
-  
-  
-  <div align="left">
-    <img height=180 src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show=prs_merged&show_icons=true&theme=blueberry&hide_border=true&locale=en" alt="GitHub Stats" />
-    &nbsp;&nbsp;
-    <img height=180 src="https://my-readme-stats-gold.vercel.app/api/top-langs?username=emmanyouwell&show_icons=true&theme=blueberry&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
+  <div align="center">
+    <img width=1000 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/0-profile-details.svg" alt="Profile Details" />
   </div>
+  <div align="center">
+    <img height=200 src="https://streak-stats.demolab.com?user=emmanyouwell&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+    <img height=200 src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show=prs_merged&show_icons=true&theme=blueberry&hide_border=true&locale=en" alt="GitHub Stats" />
+  </div>
+  <div align="center"> 
+    <img width=333 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/3-stats.svg" alt="3 Stats" />
+    <img width=333 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/2-most-commit-language.svg" alt="Most Commit Language" />
+    <img width=333 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/4-productive-time.svg" alt="Productive Time" />
+  </div>
+  
 </details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanyouwell&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="emmanyouwell" /> </p>
