@@ -66,5 +66,7 @@
     <img width=275 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/2-most-commit-language.svg" alt="Most Commit Language" />
     <img width=275 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/4-productive-time.svg" alt="Productive Time" />
   </div>
-  
+  <div align="center">
+    <img width=840 src="https://github-readme-activity-graph.vercel.app/graph?username=emmanyouwell&hide_border=true&bg_color=242938&color=25ca80&title_color=4a75db&line=25ca80&point=4a75db&area=true&area_color=26d79f" alt="Activity Graph"/>
+  </div>
 </details>
