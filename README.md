@@ -2,7 +2,7 @@
 
 <a href="https://gitroll.io/profile/uk8SQe3qfv7WylXge8yXbpZbL5jt1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uk8SQe3qfv7WylXge8yXbpZbL5jt1?theme=retro" alt="GitRoll Profile Badge"/></a>
 
-🎨 I contributed the **Retro** theme to the [GitRoll Profile Card](https://github.com/gitroll-dev/gitroll-profile-card) open-source project. Proud to have it included in the official release!
+🎨 I contributed the [**Retro**](https://github.com/gitroll-dev/gitroll-profile-card/pull/16) theme to the [GitRoll Profile Card](https://github.com/gitroll-dev/gitroll-profile-card) open-source project. Proud to have it included in the official release!
 
 # Hi 👋, I'm Emmanuel L. Mingala **[![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23f4d35e.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://www.buymeacoffee.com/emmanyouwell25)**
 
