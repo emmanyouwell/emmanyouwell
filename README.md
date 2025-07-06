@@ -56,24 +56,28 @@
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanyouwell&theme=gitdimmed" alt="emmanyouwell" /></a> </p>
 </details>
-
 <details open>
   <summary><b>📊 GitHub Stats</b></summary>
   <br/>
 
+  
   <div align="center">
-    <img width=845 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/0-profile-details.svg" alt="Profile Details" />
+  <img width=900 src="https://streak-stats.demolab.com?user=emmanyouwell&theme=blueberry&hide_border=true" alt="GitHub Streak" />
   </div>
   <div align="center">
-    <img height=180 src="https://streak-stats.demolab.com?user=emmanyouwell&theme=blueberry&hide_border=true" alt="GitHub Streak" />
-    <img height=180 src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show=prs_merged&show_icons=true&theme=blueberry&hide_border=true&locale=en" alt="GitHub Stats" />
+    <img width=900 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/0-profile-details.svg" alt="Profile Details" />
   </div>
   <div align="center"> 
-    <img width=275 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/3-stats.svg" alt="3 Stats" />
-    <img width=275 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/2-most-commit-language.svg" alt="Most Commit Language" />
-    <img width=275 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/4-productive-time.svg" alt="Productive Time" />
+    <img width=297 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/3-stats.svg" alt="3 Stats" />
+    <img width=297 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/2-most-commit-language.svg" alt="Most Commit Language" />
+    <img width=297 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/4-productive-time.svg" alt="Productive Time" />
   </div>
   <div align="center">
-    <img width=840 src="https://github-readme-activity-graph.vercel.app/graph?username=emmanyouwell&hide_border=true&bg_color=242938&color=25ca80&title_color=4a75db&line=25ca80&point=4a75db&area=true&area_color=26d79f" alt="Activity Graph"/>
+    <img width=900 src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show=prs_merged&show_icons=true&theme=blueberry&hide_border=true&locale=en" alt="GitHub Stats" />
+  </div>
+  <div align="center">
+    <img width=900 src="https://github-readme-activity-graph.vercel.app/graph?username=emmanyouwell&hide_border=true&bg_color=242938&color=25ca80&title_color=4a75db&line=25ca80&point=4a75db&area=true&area_color=26d79f" alt="Activity Graph"/>
   </div>
 </details>
+
+
