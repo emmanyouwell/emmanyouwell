@@ -31,8 +31,8 @@
 
 
 # 🛠️ Languages and Tools:
+[![Languages & Tools](https://skillicons.dev/icons?i=mongodb,express,react,,,nodejs,redux,nextjs,ts,,bootstrap,,,tailwind,,js,,,html,,css,,,,,laravel,,,py,,fastapi,,,opencv,,sklearn,,,,,dotnet,,,sequelize,,vite,,,git,,github,npm,postman,docker,,firebase,,,netlify,,vercel,,,notion,,figma,,,,,replit,,,arduino,,raspberrypi,,,androidstudio,,unity,,,,,wordpress,,,mysql,,linux,nginx,linkedin,,,discord,devto,java,php,,,c,cpp&theme=light)](https://skillicons.dev)
 
-[![Languages & Tools](https://skillicons.dev/icons?i=mongodb,express,react,redux,nodejs,nextjs,ts,bootstrap,tailwind,js,html,css,laravel,py,,fastapi,opencv,sklearn,dotnet,sequelize,vite,git,github,npm,postman,docker,firebase,netlify,vercel,notion,figma,replit,arduino,raspberrypi,androidstudio,unity,wordpress,mysql,linux,nginx,linkedin,discord,devto,java,php,c,cpp&theme=light)](https://skillicons.dev)
 
 <h1>📬 Connect with me:</h1>
 <a href="https://fb.com/emmanueellll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emmanueellll" height="50" width="60" /></a>
