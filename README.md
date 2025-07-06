@@ -4,6 +4,7 @@
 
 🎨 I contributed the [**Retro**](https://github.com/gitroll-dev/gitroll-profile-card/pull/16) theme to the [GitRoll Profile Card](https://github.com/gitroll-dev/gitroll-profile-card) open-source project. Proud to have it included in the official release!
 
+🪲 For some reason, my **Contribution** score stays at **0.0**. If you've encountered this issue and know a fix to it. Please message me at emingala02@gmail.com.
 # Hi 👋, I'm Emmanuel L. Mingala **[![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23f4d35e.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://www.buymeacoffee.com/emmanyouwell25)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanyouwell&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="emmanyouwell" /> </p>
