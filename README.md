@@ -68,9 +68,8 @@
     <img width=900 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/0-profile-details.svg" alt="Profile Details" />
   </div>
   <div align="center"> 
-    <img width=297 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/3-stats.svg" alt="3 Stats" />
-    <img width=297 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/2-most-commit-language.svg" alt="Most Commit Language" />
-    <img width=297 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/4-productive-time.svg" alt="Productive Time" />
+    <img width=440 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/2-most-commit-language.svg" alt="Most Commit Language" />
+    <img width=440 src="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/main/profile-summary-card-output/blueberry/4-productive-time.svg" alt="Productive Time" />
   </div>
   <div align="center">
     <img width=900 src="https://my-readme-stats-gold.vercel.app/api?username=emmanyouwell&show=prs_merged&show_icons=true&theme=blueberry&hide_border=true&locale=en" alt="GitHub Stats" />
