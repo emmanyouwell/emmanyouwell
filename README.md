@@ -75,7 +75,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/output/green.svg"
+    srcset="https://raw.githubusercontent.com/emmanyouwell/emmanyouwell/output/dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
