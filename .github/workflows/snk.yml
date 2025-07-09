@@ -16,9 +16,11 @@ jobs:
           github_user_name: emmanyouwell
           github_token: ${{ secrets.PAT }}
           outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             dist/green.gif?color_snake=#7f73e3&color_dots=#bbffef,#89ffe2,#4cf4cb,#36ddb4,#25c19b
-            
+            dist/rainbow.svg?color_snake=#118ab2&color_dots=#ef476f,#f78c6b,#ffd166,#06d6a0,#118ab2
 
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v4
