@@ -20,15 +20,10 @@
 <h1>Facts about me 🤔</h1>
 
 - 🔭 I’m currently working on my **profile** and **code quality**
-
 - 🌱 I’m currently learning **everything! 🧠**
-
 - 💬 Ask me about **anything**
-
 - 📫 How to reach me **emingala@gmail.com**
-
 - ⚡ Fun fact **I love sleeping 💤**
-
 
 # 🛠️ Languages and Tools:
 [![Languages & Tools](https://skillicons.dev/icons?i=mongodb,express,react,,,nodejs,redux,nextjs,ts,,bootstrap,,,tailwind,,js,,,html,,css,,,,,laravel,,,py,,fastapi,,,opencv,,sklearn,,,,,dotnet,,,sequelize,,vite,,,git,,github,npm,postman,docker,,firebase,,,netlify,,vercel,,,notion,,figma,,,,,replit,,,arduino,,raspberrypi,,,androidstudio,,unity,,,,,wordpress,,,mysql,,linux,nginx,linkedin,,,discord,devto,java,php,,,c,cpp&theme=light)](https://skillicons.dev)
