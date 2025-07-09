@@ -6,7 +6,7 @@
 
 # Hi 👋, I'm Emmanuel L. Mingala **[![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23f4d35e.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://www.buymeacoffee.com/emmanyouwell25)**
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=emmanyouwell&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="emmanyouwell" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=emmanyouwell&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="emmanyouwell"/></p>
 
 <div style="max-width: 600px; margin: auto;">
   <div align="left">
