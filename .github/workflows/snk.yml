@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3.3.0
+        with:
+          github_user_name: emmanyouwell
+          github_token: ${{ secrets.PAT }}
+          outputs: |
+            dist/dark.svg?palette=github-dark&color_snake=blue
+            dist/light.svg?color_snake=#7845ab
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          PAT: ${{ secrets.PAT }}
