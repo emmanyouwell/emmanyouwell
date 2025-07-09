@@ -32,7 +32,6 @@
 <a href="https://fb.com/emmanueellll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emmanueellll" height="50" width="60" /></a>
 <a href="https://www.youtube.com/c/emmanuel mingala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emmanuel mingala" height="50" width="60" /></a>
 
-
 # 🎧 Spotify Playing
 
 [![Spotify](https://emmanyouwell.pythonanywhere.com/?spin=true&scan=true&eq_color=rainbow&theme=dark)](https://github.com/tthn0/Spotify-Readme.git)
