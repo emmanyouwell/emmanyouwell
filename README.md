@@ -1,10 +1,10 @@
-# 🧑‍💻 Talk is cheap. Here's my GitRoll.
+<h1>🧑‍💻 Talk is cheap. Here's my GitRoll.</h1>
 
 <a href="https://gitroll.io/profile/uk8SQe3qfv7WylXge8yXbpZbL5jt1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uk8SQe3qfv7WylXge8yXbpZbL5jt1?theme=retro" alt="GitRoll Profile Badge"/></a>
 
 🎨 I contributed the [**Retro**](https://github.com/gitroll-dev/gitroll-profile-card/pull/16) theme to the [GitRoll Profile Card](https://github.com/gitroll-dev/gitroll-profile-card) open-source project. Proud to have it included in the official release!
 
-# Hi 👋, I'm Emmanuel L. Mingala **[![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23f4d35e.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://www.buymeacoffee.com/emmanyouwell25)**
+<h1> Hi 👋, I'm Emmanuel L. Mingala <a href="https://www.buymeacoffee.com/emmanyouwell25"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23f4d35e.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square" alt="buymeacoffee_badge"/></a> </h1>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=emmanyouwell&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="emmanyouwell"/></p>
 
@@ -25,14 +25,15 @@
 - 📫 How to reach me **emingala@gmail.com**
 - ⚡ Fun fact **I love sleeping 💤**
 
-# 🛠️ Languages and Tools:
+<h1>🛠️ Languages and Tools:</h1>
+
 [![Languages & Tools](https://skillicons.dev/icons?i=mongodb,express,react,,,nodejs,redux,nextjs,ts,,bootstrap,,,tailwind,,js,,,html,,css,,,,,laravel,,,py,,fastapi,,,opencv,,sklearn,,,,,dotnet,,,sequelize,,vite,,,git,,github,npm,postman,docker,,firebase,,,netlify,,vercel,,,notion,,figma,,,,,replit,,,arduino,,raspberrypi,,,androidstudio,,unity,,,,,wordpress,,,mysql,,linux,nginx,linkedin,,,discord,devto,java,php,,,c,cpp&theme=light)](https://skillicons.dev)
 
 <h1>📬 Connect with me:</h1>
 <a href="https://fb.com/emmanueellll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emmanueellll" height="50" width="60" /></a>
 <a href="https://www.youtube.com/c/emmanuel mingala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emmanuel mingala" height="50" width="60" /></a>
 
-# 🎧 Spotify Playing
+<h1>🎧 Spotify Playing</h1>
 
 [![Spotify](https://emmanyouwell.pythonanywhere.com/?spin=true&scan=true&eq_color=rainbow&theme=dark)](https://github.com/tthn0/Spotify-Readme.git)
 
