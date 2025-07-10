@@ -27,7 +27,26 @@
 
 <h1>🛠️ Languages and Tools:</h1>
 
-[![Languages & Tools](https://skillicons.dev/icons?i=mongodb,express,react,,,nodejs,redux,nextjs,ts,,bootstrap,,,tailwind,,js,,,html,,css,,,,,laravel,,,py,,fastapi,,,opencv,,sklearn,,,,,dotnet,,,sequelize,,vite,,,git,,github,npm,postman,docker,,firebase,,,netlify,,vercel,,,notion,,figma,,,,,replit,,,arduino,,raspberrypi,,,androidstudio,,unity,,,,,wordpress,,,mysql,,linux,nginx,linkedin,,,discord,devto,java,php,,,c,cpp&theme=light)](https://skillicons.dev)
+<!--[![Languages & Tools](https://skillicons.dev/icons?i=mongodb,express,react,,,nodejs,redux,nextjs,ts,,bootstrap,,,tailwind,,js,,,html,,css,,,,,laravel,,,py,,fastapi,,,opencv,,sklearn,,,,,dotnet,,,sequelize,,vite,,,git,,github,npm,postman,docker,,firebase,,,netlify,,vercel,,,notion,,figma,,,,,replit,,,arduino,,raspberrypi,,,androidstudio,,unity,,,,,wordpress,,,mysql,,linux,nginx,linkedin,,,discord,devto,java,php,,,c,cpp&theme=light)](https://skillicons.dev)
+-->
+<details><summary>Web Development</summary>
+  
+[![Web development tools](https://go-skill-icons.vercel.app/api/icons?i=mongodb,express,react,nodejs,redux,vite,nextjs,ts,bootstrap,tailwind,html,css,js,laravel,php,vercel,render,figma,nginx&theme=light)](https://github.com/LelouchFR/skill-icons)
+
+</details>
+<details><summary>IoT</summary>
+  
+[![IoT tools](https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,cpp&theme=light)](https://github.com/LelouchFR/skill-icons)
+</details>
+<details><summary>Containerization & Virtualization</summary>
+  
+[![DevOps tools](https://go-skill-icons.vercel.app/api/icons?i=docker,virtualbox&theme=light)](https://github.com/LelouchFR/skill-icons)
+</details>
+<details><summary>Machine Learning & Automation</summary>
+  
+[![DevOps tools](https://go-skill-icons.vercel.app/api/icons?i=python,n8n,sklearn,huggingface,pandas&theme=light)](https://github.com/LelouchFR/skill-icons)
+</details>
+
 
 <h1>📬 Connect with me:</h1>
 <a href="https://fb.com/emmanueellll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emmanueellll" height="50" width="60" /></a>
