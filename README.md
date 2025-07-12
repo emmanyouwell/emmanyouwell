@@ -49,9 +49,10 @@
 
 
 <h1>📬 Connect with me:</h1>
-<a href="https://fb.com/emmanueellll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emmanueellll" height="50" width="60" /></a>
-<a href="https://www.youtube.com/c/emmanuel mingala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emmanuel mingala" height="50" width="60" /></a>
-
+<a href="https://linkedin.com/in/emmanuel-mingala-7612151a4" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="emmanuel-mingala-7612151a4" height="50" width="60" /></a>
+<a href="https://fb.com/emmanueellll" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=facebook" alt="emmanueellll" height="50" width="60" /></a>
+<a href="https://www.youtube.com/c/emmanuel mingala" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=youtube" alt="emmanuel mingala" height="50" width="60" /></a>
+<a href="https://dev.to/emmanyouwell" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=devto" alt="emmanyouwell" height="50" width="60" /></a>
 <h1>🎧 Spotify Playing</h1>
 
 [![Spotify](https://emmanyouwell.pythonanywhere.com/?spin=true&scan=true&eq_color=rainbow&theme=dark)](https://github.com/tthn0/Spotify-Readme.git)
