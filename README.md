@@ -40,13 +40,16 @@
 </details>
 <details><summary>Containerization & Virtualization</summary>
   
-[![DevOps tools](https://go-skill-icons.vercel.app/api/icons?i=docker,virtualbox&theme=light)](https://github.com/LelouchFR/skill-icons)
+[![Containerization & Virtualization](https://go-skill-icons.vercel.app/api/icons?i=docker,virtualbox&theme=light)](https://github.com/LelouchFR/skill-icons)
 </details>
 <details><summary>Machine Learning & Automation</summary>
   
-[![DevOps tools](https://go-skill-icons.vercel.app/api/icons?i=python,n8n,sklearn,huggingface,pandas&theme=light)](https://github.com/LelouchFR/skill-icons)
+[![Machine Learning & Automation](https://go-skill-icons.vercel.app/api/icons?i=python,n8n,sklearn,huggingface,pandas&theme=light)](https://github.com/LelouchFR/skill-icons)
 </details>
-
+<details><summary>Cross-platform Development Tools</summary>
+  
+[![Cross-platform Development Tools](https://go-skill-icons.vercel.app/api/icons?i=electron,visualbasic,dotnet&theme=light)](https://github.com/LelouchFR/skill-icons)
+</details>
 
 <h1>📬 Connect with me:</h1>
 <a href="https://linkedin.com/in/emmanuel-mingala-7612151a4" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="emmanuel-mingala-7612151a4" height="50" width="60" /></a>
