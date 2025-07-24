@@ -1,8 +1,12 @@
 <h1>🧑‍💻 Talk is cheap. Here's my GitRoll.</h1>
 
-<a href="https://gitroll.io/profile/uk8SQe3qfv7WylXge8yXbpZbL5jt1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uk8SQe3qfv7WylXge8yXbpZbL5jt1?theme=retro" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uk8SQe3qfv7WylXge8yXbpZbL5jt1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uk8SQe3qfv7WylXge8yXbpZbL5jt1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 
-🎨 I contributed the [**Retro**](https://github.com/gitroll-dev/gitroll-profile-card/pull/16) theme to the [GitRoll Profile Card](https://github.com/gitroll-dev/gitroll-profile-card) open-source project. Proud to have it included in the official release!
+## 🎨 [GitRoll Profile Card](https://github.com/gitroll-dev/gitroll-profile-card) contributions:
+- **Dark Emerald theme** &mdash; Latest contribution [(#19)](https://github.com/gitroll-dev/gitroll-profile-card/pull/19)
+- **Retro theme** &mdash; First contribution [(#16)](https://github.com/gitroll-dev/gitroll-profile-card/pull/16)
+
+ 
 
 <h1> Hi 👋, I'm Emmanuel L. Mingala <a href="https://www.buymeacoffee.com/emmanyouwell25"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23f4d35e.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square" alt="buymeacoffee_badge"/></a> </h1>
 
