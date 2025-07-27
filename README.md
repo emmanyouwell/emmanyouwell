@@ -50,9 +50,9 @@
   
 [![Machine Learning & Automation](https://go-skill-icons.vercel.app/api/icons?i=python,n8n,sklearn,huggingface,pandas&theme=light)](https://github.com/LelouchFR/skill-icons)
 </details>
-<details><summary>Cross-platform Development Tools</summary>
+<details><summary>Other Tools</summary>
   
-[![Cross-platform Development Tools](https://go-skill-icons.vercel.app/api/icons?i=electron,visualbasic,dotnet&theme=light)](https://github.com/LelouchFR/skill-icons)
+[![Other Tools](https://go-skill-icons.vercel.app/api/icons?i=electron,visualbasic,dotnet,git,gitbash,github,vscode,shadcn,postman,insomnia,chatgpt,devto,eclipse,expo,forge,jira,java,socketio&theme=light)](https://github.com/LelouchFR/skill-icons)
 </details>
 
 <h1>📬 Connect with me:</h1>
