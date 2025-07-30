@@ -1,6 +1,5 @@
 <h1>🧑‍💻 Talk is cheap. Here's my GitRoll.</h1>
 
-
 <a href="https://gitroll.io/profile/uk8SQe3qfv7WylXge8yXbpZbL5jt1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uk8SQe3qfv7WylXge8yXbpZbL5jt1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 
 ## 🎨 [GitRoll Profile Card](https://github.com/gitroll-dev/gitroll-profile-card) contributions:
