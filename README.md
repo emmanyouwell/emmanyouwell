@@ -6,7 +6,6 @@
 - **Dark Emerald theme** &mdash; Latest contribution [(#19)](https://github.com/gitroll-dev/gitroll-profile-card/pull/19)
 - **Retro theme** &mdash; First contribution [(#16)](https://github.com/gitroll-dev/gitroll-profile-card/pull/16)
 
- 
 <h1> Hi 👋, I'm Emmanuel L. Mingala <a href="https://www.buymeacoffee.com/emmanyouwell25"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23f4d35e.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square" alt="buymeacoffee_badge"/></a> </h1>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=emmanyouwell&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="emmanyouwell"/></p>
